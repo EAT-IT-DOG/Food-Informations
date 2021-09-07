@@ -1,0 +1,10 @@
+{
+    "foodName": "멜론",
+    "safetyLevel": 30,
+    "safetyGrade": "양호",
+    "edible": "섭취 가능합니다.",
+    "symptom": ["과량급여시 탈수증상과 구토를 일으킬 수 있습니다. 당분이 높아 소량만 급여하셔야 합니다."],
+    "feedMethod": ["껍질과 씨앗을 꼭 제거하고 작게 잘라 급여 하셔야 합니다."],
+    "ingredient": ["미네랄과 수분이 붕부합니다."],
+    "barcodeNumber": 12345678
+}
