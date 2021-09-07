@@ -1,0 +1,11 @@
+{
+    "foodName": "초콜릿",
+    "safetyLevel": 100,
+    "safetyGrade": "위험",
+    "edible": "먹으면 위험합니다. 만약 반려견이 섭취하였다면 신속히 병원 의료진과 상담하시고,대처하시기 바랍니다.",
+    "symptom": ["구토,탈수,복통,장파열,불안,근육경련,발열,발작 심하면 죽음에 이르기까지 합니다."],
+    "feedMethod": "no",
+    "ingredient": "no",
+    "barcodeNumber": 12345678
+}
+
