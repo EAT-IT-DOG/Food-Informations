@@ -1,6 +1,6 @@
 {
   "foodName": "감자",
-  "safetyLevl": 15,
+  "safetyLevel": 15,
   "safetyGrade": "안전",
   "edible": "섭취 가능합니다.",
   "symptom": ["없습니다."],
