@@ -1,0 +1,10 @@
+{
+    "foodName": "수박",
+    "safetyLevel": 5,
+    "safetyGrade": "안전",
+    "edible": "섭취 가능합니다.",
+    "symptom": ["no"],
+    "feedMethod": ["씨와 껍질을 제거하고 급여해주세요."],
+    "ingredient": ["칼로리가 낮고 수분함량이 높아 수분 보충용으로도 좋습니다."],
+    "barcodeNumber": 12345678
+}
