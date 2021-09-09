@@ -1,0 +1,10 @@
+{
+    "foodName": "자두",
+    "safetyLevel": 50,
+    "safetyGrade": "양호",
+    "edible": "섭취 가능합니다.",
+    "symptom": ["다량 급여시 알르레기,위장장애,구토,설사등을 보일수있습니다."],
+    "feedMethod": ["씨를 제거하고 급여하여야 합니다."],
+    "ingredient": ["비타민과 항산화물질이 풍부합니다."],
+    "barcodeNumber": 12345678
+}
