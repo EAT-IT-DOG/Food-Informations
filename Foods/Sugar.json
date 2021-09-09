@@ -1,0 +1,10 @@
+{
+    "foodName": "설탕",
+    "safetyLevel": 70,
+    "safetyGrade": "양호",
+    "edible": "정제된 설탕을 급여시 위험할수도 있어요",
+    "symptom": ["과다 급여시 비만, 당뇨병, 치주질환을 일으킬수있어요."],
+    "feedMethod": ["강아지들은 이미 사료,간식등으로 충분한 당을 섭취 하고있습니다. 정제된 설탕을 추가로 급여하실 필요는 없습니다."],
+    "ingredient": ["no"],
+    "barcodeNumber": 12345678
+}
