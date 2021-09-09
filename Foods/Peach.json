@@ -1,0 +1,10 @@
+{
+    "foodName": "복숭아",
+    "safetyLevel": 50,
+    "safetyGrade": "양호",
+    "edible": "섭취 가능합니다.",
+    "symptom": "[다량 급여 시 설사를 유발할 수 있습니다.]",
+    "feedMethod": ["씨를 제거하고 껍질를 벗겨서 급여하세요."],
+    "ingredient": ["식이섬유가 풍부하고 칼로리가 낮아 건강에 좋습니다."],
+    "barcodeNumber": 12345678
+}
