@@ -1,7 +1,7 @@
 }
     "foodName": "사과",
     "safetyLevel": 10,
-    "safetyGrade": "양호",
+    "safetyGrade": "안전",
     "edible": "섭취 가능합니다.",
     "symptom": ["과다 급여시 설사나 복통을 일으킬 수 있습니다."],
     "feedMethod": ["씨와 사과 심 ,껍질 제거하고 급여하세요."],
