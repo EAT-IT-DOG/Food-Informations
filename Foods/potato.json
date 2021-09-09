@@ -3,7 +3,7 @@
   "safetyLevel": 15,
   "safetyGrade": "안전",
   "edible": "섭취 가능합니다.",
-  "symptom": ["없습니다."],
+  "symptom": ["no"],
   "feedMethod": ["굽거나 삶아서 껍질을 제거한뒤 급여하세요."],
   "ingredient": ["식이섬유가 풍부합니다."],
   "barcodeNumber": 12345678
