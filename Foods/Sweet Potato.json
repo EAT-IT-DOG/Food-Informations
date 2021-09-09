@@ -1,0 +1,10 @@
+{
+    "foodName": "고구마",
+    "safetyLevel": 10,
+    "safetyGrade": "안전",
+    "edible": "섭취 가능합니다.",
+    "symptom": ["알르레기를 일으킬수도 있으니 먼저 소량 급여 한후 반응을 지켜보세요."],
+    "feedMethod": ["찌고 작게 잘라 급여하세요."],
+    "ingredient": ["식이섬유가 풍부하여 변비에 좋습니다."],
+    "barcodeNumber": 12345678
+}
