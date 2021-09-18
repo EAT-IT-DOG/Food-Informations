@@ -1,0 +1,10 @@
+{
+    "foodName": "젤리",
+    "safetyLevel": 80,
+    "safetyGrade": "위험",
+    "edible": "섭취하면 안됩니다.",
+    "symptom": "소량 섭취시 6~12시간정도 경과를 지켜보고 이상이 없다면 안심햐셔도 됩니다.다량 섭취시 강아지에게 안좋은 영향을 끼칠수 있습니다.",
+    "feedMethod": ["no"],
+    "ingredient": ["no"],
+    "barcodeNumber": 12345678
+}
