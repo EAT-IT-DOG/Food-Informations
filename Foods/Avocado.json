@@ -1,0 +1,10 @@
+{
+    "foodName": "아보카도",
+    "safetyLevel": 90,
+    "safetyGrade": "위험",
+    "edible": "급여하시면 안됩니다.",
+    "symptom": ["아보카도가 가지고있는 페르신이라는 성분이 위장장애와 호흡곤란을 유발할수있습니다."],
+    "feedMethod": ["no],
+    "ingredient": ["no"],
+    "barcodeNumber": 12345678
+}
