@@ -1,0 +1,10 @@
+{
+    "foodName": "자일리톨",
+    "safetyLevel": 100,
+    "safetyGrade": "위험",
+    "edible": "급여하시면 위험합니다. 강아지에게 독이 될수있습니다.",
+    "symptom": ["소량만으로도 저혈당,발작,간부전을 일으키고 사망에 이를수있습니다."],
+    "feedMethod": ["no"],
+    "ingredient": ["no"],
+    "barcodeNumber": 12345678
+}
