@@ -1,0 +1,10 @@
+{
+    "foodName": "마늘",
+    "safetyLevel": 90,
+    "safetyGrade": "위험",
+    "edible": "급여하시면 안됩니다.",
+    "symptom": ["구토,설사,식욕부진,탈수,복통등 위장장애를 일르킬수있습니다."],
+    "feedMethod": ["마늘에 함유된 티오황산염이 강아지의 적혈구를 용혈시켜 용혈성 빈혈을 일으킵니다."],
+    "ingredient": ["no"],
+    "barcodeNumber": 12345678
+}
