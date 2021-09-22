@@ -1,0 +1,10 @@
+{
+    "foodName": "골뱅이",
+    "safetyLevel": 30,
+    "safetyGrade": "양호",
+    "edible": "섭취 가능합니다.",
+    "symptom": "no",
+    "feedMethod": ["염분을 제거하고 작게 잘라 급여하세요"],
+    "ingredient": ["단백질이 풍부합니다."],
+    "barcodeNumber": 8801063120016
+}
