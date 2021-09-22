@@ -1,0 +1,10 @@
+{
+    "foodName": "참치캔",
+    "safetyLevel": 20,
+    "safetyGrade": "안전",
+    "edible": "섭취 가능합니다.",
+    "symptom": ["no"],
+    "feedMethod": ["기름을 제거하고 물에 삶아 염분을 제거해 급여해주세요."],
+    "ingredient": ["동맥경화와 고혈압을 예방 할 수있습니다. DHA와 비타민A가 붕부합니다."],
+    "barcodeNumber": 12345678
+}
